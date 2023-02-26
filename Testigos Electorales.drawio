@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T02:31:12.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fVjXluX_nHvhuhFxU2Qa" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-26T02:36:42.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mxfwuYEgPmUGdg_s0NyL" version="20.2.5" type="github" pages="3">
   <diagram id="qKk0U-O7oEzpsACEMqjd" name="Modelo E-R">
     <mxGraphModel dx="1829" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -964,6 +964,17 @@
             <mxGeometry x="30" y="210" width="350" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2bd41H-IOQAf1B3ppVpw" name="Página-3">
+    <mxGraphModel dx="1083" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfts-y2e8uvCOt-unvEP-1" value="app&lt;br&gt;1. Loguin&lt;br&gt;2. Asistencia (determinar de que el testigo si esta en el puesto de votacion&lt;br&gt;3.Tomar la foto&lt;br&gt;4. validar el resultado" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
