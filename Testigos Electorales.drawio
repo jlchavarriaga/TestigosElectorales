@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T02:29:55.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xR2sHqDC5lz2zRBUAjgY" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-26T02:31:12.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fVjXluX_nHvhuhFxU2Qa" version="20.2.5" type="github" pages="2">
   <diagram id="qKk0U-O7oEzpsACEMqjd" name="Modelo E-R">
-    <mxGraphModel dx="1486" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="er2Dfb3OMKNxAECFCxEH" name="Bibliografia">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,12 +956,12 @@
         </UserObject>
         <UserObject label="https://www.unipamplona.edu.co/unipamplona/portalIG/home_1/recursos/anuncios_2014/votaciones/30042014/testigo_electoral_estudiantes.png" link="https://www.unipamplona.edu.co/unipamplona/portalIG/home_1/recursos/anuncios_2014/votaciones/30042014/testigo_electoral_estudiantes.png" id="v3g9jVea22nfv7Kikt_3-6">
           <mxCell style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="320" y="170" width="100" height="40" as="geometry" />
+            <mxGeometry x="330" y="170" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://www.moe.org.co/wp-content/uploads/2018/05/Testigos1-2018.pdf" link="https://www.moe.org.co/wp-content/uploads/2018/05/Testigos1-2018.pdf" id="v3g9jVea22nfv7Kikt_3-7">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="20" y="210" width="350" height="40" as="geometry" />
+            <mxGeometry x="30" y="210" width="350" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
