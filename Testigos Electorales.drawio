@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T02:36:42.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mxfwuYEgPmUGdg_s0NyL" version="20.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:10:28.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="imppGupdvtfRPqOJskwm" version="20.2.5" type="github" pages="3">
   <diagram id="qKk0U-O7oEzpsACEMqjd" name="Modelo E-R">
-    <mxGraphModel dx="1829" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -935,6 +935,9 @@
         </mxCell>
         <mxCell id="qri24Mye4dwGNtdnWw02-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="qri24Mye4dwGNtdnWw02-86" target="puAbW-QCPfZ6rJqp5bIo-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGduSp84j-eYkL5rkGLw-1" value="&lt;div style=&quot;-webkit-tap-highlight-color: transparent; color: var(--hotlane-on-background-color); font-size: 0.8125rem; line-height: 1.25rem; padding-top: 0px; overflow-wrap: break-word; font-family: Roboto, arial, sans-serif; font-weight: 400; text-align: left; background-color: rgb(255, 255, 255);&quot; data-message-text=&quot;hagase una tabla de organizacion territorial&quot; class=&quot;oIy2qc&quot;&gt;hagase una tabla de organizacion territorial&lt;/div&gt;&lt;div style=&quot;-webkit-tap-highlight-color: transparent; color: var(--hotlane-on-background-color); font-size: 0.8125rem; line-height: 1.25rem; padding-top: 0.625rem; overflow-wrap: break-word; font-family: Roboto, arial, sans-serif; font-weight: 400; text-align: left; background-color: rgb(255, 255, 255);&quot; data-message-text=&quot;1 Departamento.&quot; class=&quot;oIy2qc&quot;&gt;1 Departamento.&lt;/div&gt;&lt;div style=&quot;-webkit-tap-highlight-color: transparent; color: var(--hotlane-on-background-color); font-size: 0.8125rem; line-height: 1.25rem; padding-top: 0.625rem; overflow-wrap: break-word; font-family: Roboto, arial, sans-serif; font-weight: 400; text-align: left; background-color: rgb(255, 255, 255);&quot; data-message-text=&quot;2. Ciudad&quot; class=&quot;oIy2qc&quot;&gt;2. Ciudad&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
