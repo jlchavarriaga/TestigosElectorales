@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T03:47:05.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AnSze92ANZXj9_B7raQj" version="20.8.23" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-04T03:52:57.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eVuKCbSmQF9C05qB_fYW" version="20.8.23" type="github" pages="6">
   <diagram id="2bd41H-IOQAf1B3ppVpw" name="Inicio">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1305,7 +1305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CkSkgOlSqZ8B7HR3dkbb" name="LVL-1">
-    <mxGraphModel dx="2336" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1375,31 +1375,24 @@
         <mxCell id="t93w3HKPAG22R75O0h61-27" value="2.1 Evento de carga imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t93w3HKPAG22R75O0h61-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t93w3HKPAG22R75O0h61-10" target="t93w3HKPAG22R75O0h61-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="660" />
-              <mxPoint x="310" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t93w3HKPAG22R75O0h61-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t93w3HKPAG22R75O0h61-32" target="t93w3HKPAG22R75O0h61-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t93w3HKPAG22R75O0h61-32" value="4.1 Observador nuevos registros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t93w3HKPAG22R75O0h61-34" value="Evento nuevo registro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="371" y="660" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="t93w3HKPAG22R75O0h61-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t93w3HKPAG22R75O0h61-37" target="t93w3HKPAG22R75O0h61-40">
+        <mxCell id="07YuVPi1u9aMh37p5zh5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t93w3HKPAG22R75O0h61-19" target="t93w3HKPAG22R75O0h61-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="570" />
-              <mxPoint x="180" y="820" />
+              <mxPoint x="80" y="650" />
+              <mxPoint x="310" y="650" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="07YuVPi1u9aMh37p5zh5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="t93w3HKPAG22R75O0h61-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t93w3HKPAG22R75O0h61-32" value="Componente trigger OCR (on demand)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t93w3HKPAG22R75O0h61-37" value="2.2 Almacenamiento bucket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
@@ -1431,7 +1424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fzZBsye0r4sW4ezSbJnM" name="LVL-2">
-    <mxGraphModel dx="3447" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2759" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
