@@ -1,0 +1,10 @@
+CRUD 
+    MANEJADOR TERRITORIAL
+        Paises
+        Departamentos
+        Ciudades
+
+    MANEJADOR ELECTORAL
+        Organizacion Politica
+        Cargos: Son los Cargos de eleccion popular
+        Elecciones: 
