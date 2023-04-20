@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T18:51:50.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uxMOccIBEMlGg6OAQetB" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-20T18:52:20.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lQ-2OBozTOfpI1RCHg3u" version="21.0.6" type="github" pages="6">
   <diagram id="2bd41H-IOQAf1B3ppVpw" name="Inicio">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1470,9 +1470,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t9cRWhie4rJAPsKHyu7I-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9cRWhie4rJAPsKHyu7I-56" target="X9FTFfSDCqnXdpwSkmEw-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t9cRWhie4rJAPsKHyu7I-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9cRWhie4rJAPsKHyu7I-69" target="t9cRWhie4rJAPsKHyu7I-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
