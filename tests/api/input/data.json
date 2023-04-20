@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "id": 2,
+            "username": "admin",
+            "email": "admin@mail.com",
+            "password": "$2b$12$.ByyMtdmuvTjjBlvq6bVJu7gtjQDR8oFo46jXetjhxxzNK1AmP1G2",
+            "is_active": true,
+            "is_admin": true,
+            "created_at": "2023-04-02T23:17:45.862Z",
+            "updated_at": "2023-04-02T23:17:45.862Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "username": "user_1",
+            "email": "user1@mail.com",
+            "password": "$2b$12$xsCTaL4TNuN4.3I1ysGkmuDH9Y.7FG4zLeWBvW5c5o8H1lTtf2ayC",
+            "is_active": true,
+            "is_admin": false,
+            "created_at": "2023-04-02T23:47:27.895Z",
+            "updated_at": "2023-04-02T23:47:27.895Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "username": "user_2",
+            "email": "user2@mail.com",
+            "password": "$2b$12$kJEvPWArUDqmEv27Ih.kW.8WAhbjwdoYAdjuYJa9CTUNM9\/WU.cka",
+            "is_active": false,
+            "is_admin": false,
+            "created_at": "2023-04-04T22:25:54.471Z",
+            "updated_at": "2023-04-04T22:28:33.342Z",
+            "deleted_at": "2023-04-04T22:29:47.378Z"
+        }
+    ],
+    "products": [
+        {
+            "id": 2,
+            "name": "Java book",
+            "description": "A Java basics book",
+            "price": 1.0,
+            "created_at": "2023-04-03T21:32:29.564Z",
+            "updated_at": "2023-04-03T21:33:59.344Z",
+            "deleted_at": "2023-04-03T21:35:13.835Z"
+        },
+        {
+            "id": 3,
+            "name": "Python coding book",
+            "description": "A complete Python book.",
+            "price": 12.0,
+            "created_at": "2023-04-04T23:01:10.752Z",
+            "updated_at": "2023-04-04T23:01:10.752Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "name": "Go book",
+            "description": "Entry level Go book",
+            "price": 18.0,
+            "created_at": "2023-04-04T23:01:10.752Z",
+            "updated_at": "2023-04-04T23:03:37.593Z",
+            "deleted_at": null
+        }
+    ]
+}
