@@ -9,7 +9,6 @@ class Base(DeclarativeBase):
     """
     Declarative base class for sqlalchemy models
     """
-
     created_at = Column(DateTime, nullable=False)
     updated_at = Column(DateTime, nullable=False)
     deleted_at = Column(DateTime, nullable=True)
